@@ -1,0 +1,7 @@
+{
+  "name": "LexiSense - Legal Document Navigator & Assistant",
+  "description": "GenAI-powered legal intelligence platform to simplify complex documents, highlight risks and clauses, compare agreements side-by-side, answer questions, and prepare attorney consultation kits.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
